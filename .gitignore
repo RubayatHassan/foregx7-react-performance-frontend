@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+npm-debug.log*
+pnpm-debug.log*
+
+.vercel
+.env*
+!.env.example
